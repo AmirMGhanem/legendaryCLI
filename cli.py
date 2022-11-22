@@ -5,7 +5,7 @@ import os
 
 @click.command()
 @click.option('--cv','cv',is_flag=True,help="download my CV")
-@click.option('--LI','linkedin',is_flag=True,help="Show my LinkedIn profile")
+@click.option('--li','linkedin',is_flag=True,help="Show my LinkedIn profile")
 @click.option('--gh','github',is_flag=True,help="Show my github")
 @click.option('--about','about',is_flag=True,help="i will let you know about me a little bit 😍")
 def init(cv,linkedin,about,github):
