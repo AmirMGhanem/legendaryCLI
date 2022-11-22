@@ -1,0 +1,9 @@
+README.md
+setup.py
+Assets/__init__.py
+legendarycli.egg-info/PKG-INFO
+legendarycli.egg-info/SOURCES.txt
+legendarycli.egg-info/dependency_links.txt
+legendarycli.egg-info/entry_points.txt
+legendarycli.egg-info/requires.txt
+legendarycli.egg-info/top_level.txt
