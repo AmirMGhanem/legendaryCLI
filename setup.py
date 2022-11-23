@@ -4,9 +4,10 @@ setup(
     name="legendarycli",
     author="Amir M. Ghanem",
     author_email="amirghanem95@gmail.com",
-    version='0.0.7',
+    version='0.0.8',
     description="This is a simple CLI to show my CV and resume",
-    long_description=open('README.md').read(),
+    long_description=open('long_desc.txt').read(),
+    url="https://github.com/AmirMGhanem/legendaryCLI",
     github="https://www.github.com/AmirMGhanem",
     packages=find_packages(),
     install_requires=[
