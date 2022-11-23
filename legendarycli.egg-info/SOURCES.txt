@@ -2,6 +2,7 @@ LICENSE.txt
 README.md
 setup.py
 Assets/__init__.py
+legendarycli/__init__.py
 legendarycli.egg-info/PKG-INFO
 legendarycli.egg-info/SOURCES.txt
 legendarycli.egg-info/dependency_links.txt

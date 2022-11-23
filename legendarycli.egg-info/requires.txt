@@ -1,3 +1,5 @@
 Click
 termcolor
 pyfiglet
+requests
+tqdm
