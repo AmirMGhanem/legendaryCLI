@@ -1,2 +1,2 @@
 [console_scripts]
-legendarycli = cli:init
+legendarycli = legendarycli.cli:init

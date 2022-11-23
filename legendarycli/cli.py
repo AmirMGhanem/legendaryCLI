@@ -22,7 +22,7 @@ def init(cv,linkedin,about,github):
         desktop = os.path.join(os.path.join(os.path.expanduser('~')), 'Desktop')
         file_name="cv.pdf"
         completepath = desktop + "/" + file_name
-        file_path = os.path.join(os.path.dirname(__file__), 'Assets/Amir_Ghanem_CV.pdf')
+        file_path = os.path.join(os.path.dirname(__file__), '../Assets/Amir_Ghanem_CV.pdf')
         cv = open(file_path, 'rb')
         file=open(completepath, 'wb')
         file.write(cv.read())
